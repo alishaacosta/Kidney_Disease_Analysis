@@ -1,4 +1,4 @@
-#Exploration of Differentially Expressed Genes, Pathways, and Networks in Non-Diabetic and Diabetic Chronic Kidney Disease
+Exploration of Differentially Expressed Genes, Pathways, and Networks in Non-Diabetic and Diabetic Chronic Kidney Disease
 
 This repository contains three scripts:
 1. Preprocessing_KD.R
